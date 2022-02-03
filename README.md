@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AidanWisey
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing
+- 📫 Dont reach me <3
