@@ -1,6 +1,5 @@
 import itertools
 import string
-passw = input("What is your password? ")
 def guess_password(real):
     chars = string.ascii_lowercase + string.digits
     attempts = 0
@@ -9,5 +8,5 @@ def guess_password(real):
             attempts += 1
             guess = ''.join(guess)
             if guess == real:
-                return 'password is {}. found in {} guesses.'.format(guess, attempts)
-print(guess_password(passw))
+                return 'Password is {}. Found in {} guesses.'.format(guess, attempts)
+print(guess_password('hyasd'))
